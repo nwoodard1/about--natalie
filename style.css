@@ -1,7 +1,10 @@
 h1 {
 	text-align: center;
-	font-family: Arial, serif;
+	font-family: Papyrus, serif;
 	margin-bottom: 30px;
+	color: white;
+	font-style: italic;
+	font-size: 48px;
 }
 
 .center {
@@ -9,8 +12,24 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 }
-ul {
-	font-family: Arial, serif;
+
+body {
+	background-image: url("cat.jpg");
+	background-repeat: repeat;
+}
+
+div {
+	margin-top: 30px;
+	width: 360px;
 	text-align: center;
-	font-size: 18px;
+	color: whitesmoke;
+	font-weight: bolder;
+	font-size: 25px;
+	font-family: Papyrus, serif;
+	font-style: italic;
+}
+
+p {
+	font-size: small;
+	color: whitesmoke;
 }
